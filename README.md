@@ -58,7 +58,7 @@ To successfully run the program, the input string must meet the following criter
 You will need a DOS environment (like DOSBox) and the TASM/TLINK toolchain installed.
 
 ### 1. Prerequisites
-Ensure `hexa.txt` exists in the same directory and contains the valid hexadecimal characters used for validation (content: `0123456789ABCDEFabcdef`).
+Ensure `hexa.txt` exists in the same directory and contains the valid hexadecimal characters used for validation (content: ` 0123456789ABCDEFabcdef`).
 
 ### 2. Automated Build
 A batch file is included to streamline the compilation and linking process.
